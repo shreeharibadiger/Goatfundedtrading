@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Keep the original file URL working
+[[redirects]]
+  from = "/GOAT_Funded_First_Payout_Manager.html"
+  to = "/"
+  status = 301
